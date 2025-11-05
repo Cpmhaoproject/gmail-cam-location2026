@@ -22,6 +22,6 @@
 <p align="left">
 
 <a href="
-https://www.instagram.com/python3blackhat_s25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanhacker" height="30" width="40" /></a>
+<a href="https://www.instagram.com/python3blackhat_s25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanhacker" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sanbeta2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanhacker" height="30" width="40" /></a>
 </p>
