@@ -1,15 +1,26 @@
----
+# sanhacker-cam+location
+[![MasterHead](https://thumbs.gfycat.com/AmusingAntiqueEmu-size_restricted.gif)](http://www.msrtanim.xyz)
 
-### 🔥 特点：
-- 居中标题 + 表情符号标题风格  
-- 绿色命令区使用 Markdown 代码块  
-- 最底部社交链接整齐对齐（Telegram → Instagram → YouTube）  
-- HTML + Markdown 混合格式，GitHub 100% 支持  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%91%8BHELLO+GUYS+I'M+SANHACKER+HERE%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;%E2%98%A3%EF%B8%8FCEO+OF+PYTHON%E2%98%A3%EF%B8%8F;%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8FPLEASE+FOLLOW+MY+GITHUB%F0%9F%92%96;%F0%9F%92%BBTHANKS+ALL+MY+FAMILY+MEMBERS%F0%9F%94%A5)](https://git.io/typing-svg)
 
----
+# Install System
+'''
 
-是否要我帮你加上 **动态 GitHub 徽章（如 Stars、Forks、Visitors 计数）**？  
-我可以直接在顶部加上，比如：  
-> ![Stars](https://img.shields.io/github/stars/Cpmhao/gmail-cam-location2026?style=for-the-badge)  
+'''
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%A5%B0ANY+TERMINAL+CAN+RUN+THIS+SCRIPT%F0%9F%A5%B0)](https://git.io/typing-svg)
 
-要我帮你把这些徽章也加进去，让 README 更专业吗？
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=YOU+RESPECT+ME%2C+I+RESPECT+YOU%F0%9F%A5%B0;YOU+DESPECT+ME%2C+I+FUCK+YOU%F0%9F%96%95%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/betahackerkali" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sanhacker" height="30" width="40" />
+</a>
+<a href="https://instagram.com/msrtanim1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/msrtanim" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="msrtanim" height="30" width="40" />
+</a>
+</p>
